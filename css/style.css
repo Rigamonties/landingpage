@@ -42,7 +42,8 @@ p{
 input{
     width: 200px;
     height: 40px;
-    background-color: #fae12c;
+    background-color: #008080;
+    color: #fff;
     border-radius: 7.5px;
     font-size: 20px;
     border-style: none;
@@ -52,5 +53,4 @@ input{
     box-shadow: 0 5px 10px #0007;
     font-family: "Tinos", serif;
     font-weight: 400;
-
 }
